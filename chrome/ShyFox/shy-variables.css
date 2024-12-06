@@ -25,8 +25,9 @@ Values of these variables can be changed safely and most likely nothing will bre
   /* animations time */
   --trans-dur: 0.25s;
   
+  /* https://github.com/Naezr/ShyFox/issues/158 */
   /* width of some elements. 1vw is one hundredth of the screen width */
-  --sdbr-wdt: 300px;
+  --sdbr-wdt: 240px;
   
   --navbar-wdt: 60vw;
   
